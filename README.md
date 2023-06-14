@@ -35,3 +35,5 @@ Example: https://medium.com/readmoreth/install-robot-framework-for-windows-408e3
 ```
 $ pip install selenium==x.x.x
 ```
+## Selenium Library
+Example: https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#library-documentation-top
